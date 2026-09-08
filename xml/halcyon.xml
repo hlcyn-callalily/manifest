@@ -69,6 +69,7 @@
   <project path="packages/apps/Etar" name="packages_apps_Etar" remote="hlcyn" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="hlcyn" />
   <project path="packages/apps/FaceUnlock" name="packages_apps_FaceUnlock" remote="halcyon-gitlab" />
+  <project path="packages/apps/Freeform" name="packages_apps_Freeform" remote="hlcyn" />
   <project path="packages/apps/Glimpse" name="packages_apps_Glimpse" remote="hlcyn" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="hlcyn" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="halcyon" />
