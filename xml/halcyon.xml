@@ -44,6 +44,7 @@
 
   <!-- External -->
   <project path="external/bouncycastle" name="external_bouncycastle" remote="halcyon" />
+  <project path="external/robolectric" name="external_robolectric" remote="hlcyn" />
   <project path="external/setupcompat" name="external_setupcompat" remote="hlcyn" />
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="halcyon" />
 
@@ -71,6 +72,7 @@
   <project path="packages/apps/FaceUnlock" name="packages_apps_FaceUnlock" remote="halcyon-gitlab" />
   <project path="packages/apps/Freeform" name="packages_apps_Freeform" remote="hlcyn" />
   <project path="packages/apps/Glimpse" name="packages_apps_Glimpse" remote="hlcyn" />
+  <project path="packages/apps/Nest" name="packages_apps_Nest" remote="hlcyn" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="hlcyn" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="halcyon" />
   <project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="hlcyn" />
@@ -105,6 +107,7 @@
   <project path="system/sepolicy" name="system_sepolicy" remote="halcyon" />
   <project path="system/update_engine" name="system_update_engine" remote="halcyon" />
   <project path="system/vold" name="system_vold" remote="halcyon" />
+  <project path="system/zygote" name="system_zygote" remote="halcyon" />
 
   <!-- Vendor -->
   <project path="vendor/halcyon" name="vendor_halcyon" remote="halcyon" />
